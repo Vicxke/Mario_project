@@ -24,7 +24,10 @@ import javafx.scene.layout.Region;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.Paint;
 import javafx.scene.text.Font;
+import project_maswiv.model.Finish;
 import project_maswiv.model.MarioLuigi;
+import project_maswiv.model.RoodGrondBlok;
+import project_maswiv.model.Spikes;
 
 /**
  *
@@ -99,7 +102,19 @@ public class MainView extends Region{
             else if(el instanceof MarioLuigi){
                 MarioLuigi ml = (MarioLuigi) el;
                 views.add(new MarioLuigiView(ml));
-            }            
+            }
+            else if(el instanceof Spikes){
+                Spikes sp = (Spikes) el;
+                views.add(new SpikesView(sp));
+            }
+            else if(el instanceof Finish){
+                Finish fi = (Finish) el;
+                views.add(new FinishView(fi));
+            }
+            else if(el instanceof RoodGrondBlok){
+                RoodGrondBlok ro = (RoodGrondBlok) el;
+                views.add(new RoodGrondBlokView(ro));
+            }
         }
         
         //getChildren().clear(); //clear childeren eerst

@@ -24,6 +24,7 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import project_maswiv.levels.Level0;
 import project_maswiv.levels.Level1;
+import project_maswiv.levels.Level2;
 
 public class PlaygroundFXMLController {
 
@@ -76,7 +77,7 @@ public class PlaygroundFXMLController {
             game = new Level1(mario);        
         }
         else if(level == 2){
-            //game = new Level2(speelveld, view, model, this);  
+            game = new Level2(mario);  
         }
         
         

@@ -195,6 +195,20 @@ public class Game {
                     }
                 }
             }
+            
+            if(el instanceof Spikes){
+                Spikes sp = (Spikes) el;
+                for (Element element: elementen){
+                    if(el != element){
+                        if(mario.IntersectWithTop(sp)){
+                            mario.setYoshiegg(false);
+                            System.out.println("You might feel a little prick");
+                            minLeven();
+                            mario.setImageChanged(true);
+                        }  
+                    }
+                }
+            }
         }
 
         //grafity voor horizontale beweging

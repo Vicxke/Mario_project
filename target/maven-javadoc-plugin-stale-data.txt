@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/VicHe/.m2/repository/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1.jar;C:/Users/VicHe/.m2/repository/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1.jar;C:/Users/VicHe/.m2/repository/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1.jar;C:/Users/VicHe/.m2/repository/org/openjfx/javafx-fxml/17.0.1/javafx-fxml-17.0.1.jar'
+--module-path
+'C:/Users/VicHe/.m2/repository/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1-win.jar;C:/Users/VicHe/.m2/repository/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-win.jar;C:/Users/VicHe/OneDrive - KU Leuven/java projecten/Project_MASWIV/target/classes;C:/Users/VicHe/.m2/repository/org/openjfx/javafx-fxml/17.0.1/javafx-fxml-17.0.1-win.jar;C:/Users/VicHe/.m2/repository/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1-win.jar'
+--patch-module
+project_maswiv='C:/Users/VicHe/OneDrive - KU Leuven/java projecten/Project_MASWIV/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/VicHe/OneDrive - KU Leuven/java projecten/Project_MASWIV/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/VicHe/OneDrive - KU Leuven/java projecten/Project_MASWIV/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Project_MASWIV 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/VicHe/OneDrive - KU Leuven/java projecten/Project_MASWIV/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Project_MASWIV 1.0-SNAPSHOT API'
+project_maswiv
+'C:/Users/VicHe/OneDrive - KU Leuven/java projecten/Project_MASWIV/src/main/java/module-info.java'
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\allclasses-index.html = 1674308216325
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\allpackages-index.html = 1674308216327
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\copy.svg = 1674308216369
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\element-list = 1674308216224
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\help-doc.html = 1674308216364
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\index-all.html = 1674308216348
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\index.html = 1674308216353
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\jquery-ui.overrides.css = 1674308216385
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\member-search-index.js = 1674308216332
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\module-search-index.js = 1674308216329
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\overview-tree.html = 1674308216303
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\package-search-index.js = 1674308216330
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\script.js = 1674308216368
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\search-page.js = 1674308216375
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\search.html = 1674308216351
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\search.js = 1674308216373
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\stylesheet.css = 1674308216366
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\tag-search-index.js = 1674308216333
+C:\Users\VicHe\OneDrive - KU Leuven\java projecten\Project_MASWIV\target\site\apidocs\type-search-index.js = 1674308216331
